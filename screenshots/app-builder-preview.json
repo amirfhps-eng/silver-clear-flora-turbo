@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Linebook",
+      "hasCanvas": false,
+      "bodyTextLen": 746,
+      "bodyTextHash": "ec926264f3c7cd18569148bf056458352d3061e148ba7ba802c444437bf9789f",
+      "bodyTextPrefix": "Linebook Repertoire Study Train Analyze White Black OPENING Star",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Linebook",
+      "hasCanvas": false,
+      "bodyTextLen": 683,
+      "bodyTextHash": "cc5511722a8a5abaa06d2e0dfbf75e85abcc166999e519aace6a7162d52d66ec",
+      "bodyTextPrefix": "Linebook Repertoire Study Train Analyze White Black OPENING Star",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
